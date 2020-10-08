@@ -12,6 +12,8 @@ import java.io.IOException;
 
 public class Main extends Application {
 
+    private static int prom;
+
     private static Stage primaryStage;
     private AnchorPane rootLayout;
 
